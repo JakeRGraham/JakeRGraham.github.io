@@ -18,7 +18,6 @@
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2027",
-  "EducationText": "Use this to add some narrative to your education section",
   "Skills": ["C++", " MIPS Assembly", " Circuit Analysis and Design", " Logic System Analysis and Design", " High Level Math Skills"],
   "Resume": "JakeGraham-Resume.pdf"  
 },
