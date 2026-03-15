@@ -21,7 +21,7 @@
   "Skills": ["C++", " MIPS Assembly", " Circuit Analysis and Design", " Logic System Analysis and Design", " High Level Math Skills"],
   "Resume": "JakeGraham-Resume.pdf"  
 },
-"Sallen-Key Filter": {
+"Project1": {
     "Title": "10 kHz Sallen-Key Filter",
     "Desc": "A project I completed in my Circuits II class was to design a 10kHz Bandpass Sallen-Key filter whose output was put into a Peak Detector and Comparator,\nso that a signal was output from the comparator only when a 10kHz signal was put into the filter. I designed a 4-stage filter with a Quality factor of 4 for each stage for a maximum amount of attenuation,\nand I used a voltage divider at the input of the circuit to reduce the filter's gain by a factor of 1000V/V. Below are pictures of the filter, the filter schematic, and a Frequency-Response Analysis Bode Plot of the filter.",
     "GitHubRepo": "https://github.com",
