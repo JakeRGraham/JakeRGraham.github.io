@@ -4,10 +4,10 @@
   "Currently": "Electrical Engineering Student",
   "Headshot": "Student-Portrait.jpg",
   "Thumbnail": "student-logo.jpg",
-  "AboutText": "I am a dedicated and hard-working Electrical Engineering student at Seattle Pacific University."
+  "AboutText": "My name is Jake Graham; I am a dedicated and hard-working Electrical Engineering student at Seattle Pacific University."
 },
 "Contact": {
-  "Email": "grahamj8@spu.edu",
+  "EMail": "grahamj8@spu.edu",
   "Phone": "(425) 209-5332",
   "Portfolio": "https://jakergraham.github.io/",
   "LinkedIn": "https://www.linkedin.com/in/jake-graham03/",
@@ -18,7 +18,12 @@
   "School": "Seattle Pacific University",
   "Major": "Electrical Engineering",
   "Graduation": "June 2027",
+  "EducationText": "",
+  "Employment": "",
+  "Role": "",
+  "EmploymentText": "",
   "Skills": ["C++", " MIPS Assembly", " Circuit Analysis and Design", " Logic System Analysis and Design", " High Level Math Skills"],
+  "SkillsText": "",
   "Resume": "JakeGraham-Resume.pdf"  
 },
 "Project1": {
