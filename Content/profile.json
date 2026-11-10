@@ -1,10 +1,10 @@
 {
 "About": {
   "Name": "Jake R Graham",
-  "Currently": "Electrical Engineering Student",
+  "Currently": "Computer Engineering Student",
   "Headshot": "Student-Portrait.jpg",
   "Thumbnail": "student-logo.jpg",
-  "AboutText": "My name is Jake Graham; I am a dedicated and hard-working Electrical Engineering student at Seattle Pacific University."
+  "AboutText": "My name is Jake Graham; I am a dedicated and hard-working Computer Engineering student at Seattle Pacific University."
 },
 "Contact": {
   "EMail": "grahamj8@spu.edu",
@@ -16,9 +16,9 @@
 "Experience": {
   "ExperienceText": "        Beyond my education, I serve in a minor role on my church's tech team, where I alternately run the lights or the broadcast audio for the service. I also routinely perform repairs on my house, its appliances, and my car, including changing batteries and caliper pins on my car, installing new power outlets, changing batteries on laptops, and other such necessities.",
   "School": "Seattle Pacific University",
-  "Major": "Electrical Engineering",
+  "Major": "Computer Engineering",
   "Graduation": "June 2027",
-  "EducationText": "        I have an aptitude for mathematics, computer science, and engineering. Because of these, I was highly encouraged throughout my life to pursue an engineering degree. I initially resisted the idea when I graduated from High School because I didn't particularly enjoy either the experience or the classes, but after taking a year off I was encouraged to continue my education, and to my delight, I found that all of the interesting classes I had been wanting were found in Higher Education. Since that discovery, I have been working and studying hard to get an Electrical Engineering degree in order to become an Embedded Engineer, where I hope to use my math, computer science, and engineering skills to create new solutions for complex problems.",
+  "EducationText": "        I have an aptitude for mathematics, computer science, and engineering. Because of these, I was highly encouraged throughout my life to pursue an engineering degree. I initially resisted the idea when I graduated from High School because I didn't particularly enjoy either the experience or the classes, but after taking a year off I was encouraged to continue my education, and to my delight, I found that all of the interesting classes I had been wanting were found in Higher Education. Since that discovery, I have been working and studying hard to get an Computer Engineering degree in order to become an Embedded Engineer, where I hope to use my math, computer science, and engineering skills to create new solutions for complex problems.",
   "Employment": "",
   "Role": "",
   "EmploymentText": "",
@@ -27,10 +27,17 @@
   "Resume": "JakeGraham-Resume.pdf"  
 },
 "Project1": {
+    "Title": "GPU exploration",
+    "Desc": "I was an intern at a company called Symetrix, who makes audio equipment, in the summer of 2026. During that internship, I learned how GPUs work, I learned a language called SYCL which is designed to target multiple processing units at once, and I gained first-hand experience with programming in a real-time backend environment. The goal of my internship was twofold: to figure out how to run code on a GPU, and then make an API that would allow developers to make the call of whether or not the GPU was worth using for any use that may come to mind in the future. I was able to complete that by using a language called SYCL, which can target many processing units, like GPUs, CPUs, neural networks, etc. Once the two goals of my project were complete, I was asked to incorporate the API I had written into the device backend the com",
+    "GitHubRepo": "https://github.com/JakeRGraham?tab=repositories",
+    "MainImage": "",
+    "DetailImages": [""]
+  }
+},
+"Project2": {
     "Title": "10 kHz Sallen-Key Filter",
     "Desc": "A project I completed in my Circuits II class was to design a 10kHz Bandpass Sallen-Key filter whose output was put into a Peak Detector and Comparator,\nso that a signal was output from the comparator only when a 10kHz signal was put into the filter. I designed a 4-stage filter with a Quality factor of 4 for each stage for a maximum amount of attenuation,\nand I used a voltage divider at the input of the circuit to reduce the filter's gain by a factor of 1000V/V. Below are pictures of the filter, the filter schematic, and a Frequency-Response Analysis Bode Plot of the filter.",
     "GitHubRepo": "https://github.com/JakeRGraham?tab=repositories",
     "MainImage": "Filter-Schematic.png",
     "DetailImages": ["Filter.jpg","Filter-FRA.jpg","Peak-and-Comparator.jpg"]
   }
-}
