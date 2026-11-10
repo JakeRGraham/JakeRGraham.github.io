@@ -19,16 +19,16 @@
   "Major": "Computer Engineering",
   "Graduation": "June 2027",
   "EducationText": "        I have an aptitude for mathematics, computer science, and engineering. Because of these, I was highly encouraged throughout my life to pursue an engineering degree. I initially resisted the idea when I graduated from High School because I didn't particularly enjoy either the experience or the classes, but after taking a year off I was encouraged to continue my education, and to my delight, I found that all of the interesting classes I had been wanting were found in Higher Education. Since that discovery, I have been working and studying hard to get a Computer Engineering degree in order to become an Embedded Engineer, where I hope to use my math, computer science, and engineering skills to create new solutions for complex problems.",
-  "Employment": "",
-  "Role": "",
-  "EmploymentText": "",
-  "Skills": ["C++", " MIPS Assembly", " Circuit Analysis and Design", " Logic System Analysis and Design", " High Level Math Skills"],
+  "Employment": "Symetrix",
+  "Role": "Engineering Intern",
+  "EmploymentText": "I was an intern at a company called Symetrix, who makes audio equipment, in the summer of 2026. During that internship, I learned how GPUs work, I learned a language called SYCL which is designed to target multiple processing units at once, and I gained first-hand experience with programming in a real-time backend environment. The goal of my internship was twofold: to figure out how to run code on a GPU, and then make an API that would allow developers to make the call of whether or not the GPU was worth using for any use that may come to mind in the future. I was able to complete that by using a language called SYCL, which can target many types of processing units, such as GPUs, CPUs, neural networks, etc. Once the two goals of my project were complete, I was asked to incorporate the API I had written into the device backend for one of their products, and have the GPU run a spectral analysis algorithm and display the results.",
+  "Skills": ["C++", " MIPS Assembly", " Circuit Analysis and Design", " Logic System Analysis and Design", " High Level Math Skills", "\n\n\n*This portfolio's format and style are copied from a template made by Dennis Vickers at https://github.com/DennisVickers/SPU_ECS_Template."],
   "SkillsText": "",
   "Resume": "JakeGraham-Resume.pdf"  
 },
 "Project1": {
     "Title": "GPU exploration",
-    "Desc": "I was an intern at a company called Symetrix, who makes audio equipment, in the summer of 2026. During that internship, I learned how GPUs work, I learned a language called SYCL which is designed to target multiple processing units at once, and I gained first-hand experience with programming in a real-time backend environment. The goal of my internship was twofold: to figure out how to run code on a GPU, and then make an API that would allow developers to make the call of whether or not the GPU was worth using for any use that may come to mind in the future. I was able to complete that by using a language called SYCL, which can target many processing units, like GPUs, CPUs, neural networks, etc. Once the two goals of my project were complete, I was asked to incorporate the API I had written into the device backend for one of their products, and have the GPU run a spectral analysis algorithm and display the results.",
+    "Desc": "The goal of the project was twofold: to figure out how to run code on a GPU, and then make an API that would allow developers to make the call of whether or not the GPU was worth using for any use that may come to mind in the future. I was able to complete that by using a language called SYCL, which can target many types of processing units, such as GPUs, CPUs, neural networks, etc. Once the two goals of my project were complete, I was asked to incorporate the API I had written into the device backend for one of their products, and have the GPU run a spectral analysis algorithm and display the results.",
     "GitHubRepo": "https://github.com/JakeRGraham?tab=repositories",
     "MainImage": "",
     "DetailImages": []
